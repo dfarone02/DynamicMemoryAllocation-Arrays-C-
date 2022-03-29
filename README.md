@@ -45,5 +45,4 @@ print the number of elements and average, and expand the array.
 integers read in), the number of elements read, and the average of those numbers.
 
 
- Prior to exiting the program, deallocate all dynamically allocated memory. You may not rely on program
-termination for memory deallocation. 
+ Prior to exiting the program, deallocate all dynamically allocated memory
